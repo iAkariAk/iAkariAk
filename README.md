@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @iAkariAk
-- 👀 I’m interested in Kotlin
+Hi, I’m @iAkariAk
 
-<!---
-iAkariAk/iAkariAk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAkari&title_color=f44336&theme=dark&langs_count=3)
